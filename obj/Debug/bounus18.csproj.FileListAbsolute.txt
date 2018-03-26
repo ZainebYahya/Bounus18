@@ -1,0 +1,7 @@
+c:\users\safa\source\repos\bounus18\bin\Debug\bounus18.exe.config
+c:\users\safa\source\repos\bounus18\bin\Debug\bounus18.exe
+c:\users\safa\source\repos\bounus18\bin\Debug\bounus18.pdb
+c:\users\safa\source\repos\bounus18\obj\Debug\bounus18.csprojResolveAssemblyReference.cache
+c:\users\safa\source\repos\bounus18\obj\Debug\bounus18.csproj.CoreCompileInputs.cache
+c:\users\safa\source\repos\bounus18\obj\Debug\bounus18.exe
+c:\users\safa\source\repos\bounus18\obj\Debug\bounus18.pdb
